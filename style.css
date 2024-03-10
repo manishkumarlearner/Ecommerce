@@ -1,0 +1,17 @@
+*{
+    color: red;
+    text-align : center;
+    
+    font-fammily: "Times New Roman" ;
+    
+}
+div{
+    height: 200px;
+    width: 350px;
+    background-image: url("cat_image.jpg");
+    background-size: cover;
+    position: absolute;
+    right:10px;
+    z-index: 2;
+    
+}
